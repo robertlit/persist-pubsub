@@ -16,7 +16,8 @@ gcloud auth application-default login
 ```
 
 ## Run Terraform
-Configure the variables in `terraform.tfvars`, then run
+In the `infrastructure` directory, configure the variables 
+in `terraform.tfvars`, then run
 ```
 terraform init
 terraform apply
