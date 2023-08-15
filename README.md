@@ -28,6 +28,6 @@ This will prepare the infrastructure, package and deploy the code
 - [Terraform HTTP Example](https://cloud.google.com/functions/docs/tutorials/terraform)
 - [HTTP Tutorial (2nd gen)](https://cloud.google.com/functions/docs/tutorials/http)
 - [Java Deployment Options](https://cloud.google.com/functions/docs/concepts/java-deploy)
-- [Authenticating Functions (2nd gen) Calls](https://stackoverflow.com/a/75711889)
+- [Authenticating Function (2nd gen) Calls](https://stackoverflow.com/a/75711889)
 - [Event-Driven Functions](https://cloud.google.com/functions/docs/writing/write-event-driven-functions)
 - [Event-Driven Function Retries](https://cloud.google.com/functions/docs/bestpractices/retries)
